@@ -6,7 +6,6 @@
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Makefile](https://img.shields.io/badge/Makefile-427819?style=for-the-badge&logo=gnu&logoColor=white)
-![License](https://img.shields.io/badge/licence-MIT-pink?style=for-the-badge)
 
 </div>
 
